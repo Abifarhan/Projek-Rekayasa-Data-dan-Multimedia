@@ -18,8 +18,8 @@ if you want to check if swish-e already installed in your OS just type this synt
 
 
 B. Indexing Image
-in this tutorial I using Pyhton, Flask, and OpenCV.
-
+- in this tutorial I using Pyhton, Flask, and OpenCV.
+- directory of image in : app/static/image
 The step :
 1. First you have to clone this repository and install pip with the syntax : sudo apt install python3-pip.
 
